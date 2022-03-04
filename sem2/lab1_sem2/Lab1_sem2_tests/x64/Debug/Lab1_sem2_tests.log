@@ -1,0 +1,5 @@
+﻿  Lab1_sem2_tests.cpp
+D:\уник\ПИВАС\sem2\lab1_sem2\lab1_sem2\Header.h(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+     Создается библиотека D:\уник\ПИВАС\sem2\lab1_sem2\x64\Debug\Lab1_sem2_tests.lib и объект D:\уник\ПИВАС\sem2\lab1_sem2\x64\Debug\Lab1_sem2_tests.exp
+Lab1_sem2_tests.obj : error LNK2019: ссылка на неразрешенный внешний символ "public: int * __cdecl Library::ArrSuf(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?ArrSuf@Library@@QEAAPEAHV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) в функции "public: void __cdecl Lab1sem2tests::Lab1sem2tests::check_suff(void)" (?check_suff@Lab1sem2tests@1@QEAAXXZ).
+D:\уник\ПИВАС\sem2\lab1_sem2\x64\Debug\Lab1_sem2_tests.dll : fatal error LNK1120: неразрешенных внешних элементов: 1
