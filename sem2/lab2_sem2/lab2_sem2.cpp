@@ -111,7 +111,6 @@ int get_inf(vector<Node*>& Graph)
 	Graph.push_back(last);
 	return last->number;
 
-
 }
 
 bool dfs(vector<Node*>& Graph /*Вектор узлов*/, int src/*Начальный элемент*/, int dst/*Конечный элемент*/, list<Edge*>& path /*Пройденный путь по ребрам*/, list<int>& visited /*посещенные узлы*/)  //поиск в глубину (на вход идет вектор графов, элемент, с которого идет поиск, конечный элемент, список пути, список посещенных элементов)
