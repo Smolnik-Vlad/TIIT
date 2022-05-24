@@ -1,7 +1,0 @@
-﻿  Lab1_sem2_tests.cpp
-D:\уник\ПИВАС\sem2\lab1_sem2\lab1_sem2\sum.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\уник\ПИВАС\sem2\lab1_sem2\lab1_sem2\sum.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\уник\ПИВАС\sem2\lab1_sem2\lab1_sem2\Header.h(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-D:\уник\ПИВАС\sem2\lab1_sem2\lab1_sem2\sum.cpp(39,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-     Создается библиотека D:\уник\ПИВАС\sem2\lab1_sem2\x64\Debug\Lab1_sem2_tests.lib и объект D:\уник\ПИВАС\sem2\lab1_sem2\x64\Debug\Lab1_sem2_tests.exp
-  Lab1_sem2_tests.vcxproj -> D:\уник\ПИВАС\sem2\lab1_sem2\x64\Debug\Lab1_sem2_tests.dll
